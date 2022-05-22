@@ -14,7 +14,7 @@ To allow users of the UFO Sightings website to run a more in-depth analysis of U
   Combining the "Date" and "State" filters
   ![Date_State](https://github.com/SzeWingChan/UFOs/blob/main/resources/Date_State.png)
 
-  Combining the "Date", City and Shape filters
+  Combining the "Date", "City" and "Shape" filters
   ![Date_City_Shape](https://github.com/SzeWingChan/UFOs/blob/main/resources/Date_City_Shape.png)
 
 ## Summary
